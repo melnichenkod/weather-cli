@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/melnichenkod/weather-cli/issues"
   },
-  "homepage": "https://github.com/melnichenkod/weather-cli#readme"
+  "homepage": "https://github.com/melnichenkod/weather-cli#readme",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
 }
